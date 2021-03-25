@@ -3,4 +3,4 @@ Proyecto de aplicación curso Fundamentos de Programación
 
 Integrantes:
 Laura Canaveral Agudelo
-Laura Katterine Zapata Rendón
+Laura Katterine Zapata Rendon
