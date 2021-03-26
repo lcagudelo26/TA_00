@@ -29,4 +29,18 @@ Aspectos destacados:
 * Ligero y ultrarrápido
 
 5.3 Librerías disponibles
-Identifique librerías disponibles en Python que les puedan ser de utilidad para el desarrollo de la aplicación. Describa sus principales características.
+
+* Nose: Un framework de testing para Python. Es utilizado por millones de desarrolladores de Python. Es necesaria si quieres comprobar que todo funcione correctamente en tus proyectos desarrollados con Python
+
+* PYGAME: Pygame es una librería de código abierto la cual nos permite crear aplicaciones multimedia. Aunque su principal enfoque es crear videojuegos, nosotros podemos dejar a un lado esto y realizar otro tipo de aplicaciones, aplicaciones donde necesitemos trabajar con imágenes, animaciones, música, texto, eventos, tanto del teclado como del mouse, entre otros.  Es de suma importancia mencionar que Pygame no cuenta con soporte para implementar física avanzada, por lo que esto queda por parte del desarrollador.
+
+* SQLALCHEMY Trabajar con base de datos ya no es una opción, prácticamente todas nuestras aplicaciones funcionan con una. sqlAlchemy es una librería la cual nos permite trabajar con las bases de datos mediante objetos, es decir, es un ORM.Con esta librería podemos crear, modificar, consultar y eliminar nuestras tablas, así como crear, leer, actualizar y eliminar nuestros registros. El poder de SqlAlchemy no se limita únicamente esto. Podemos crear modelos con diferentes relaciones, uno a uno, uno a muchos, muchos a muchos inclusive relaciones polimórficas.
+
+* Pillow: Una herramienta para manipular imágenes. Es un fork de PIL y es más fácil de usar, bastante útil si trabajas con imágenes frecuentemente.
+Pandas: pandas es una biblioteca de código abierto con licencia BSD que proporciona estructuras de datos de alto rendimiento, fáciles de usar y herramientas de análisis de datos para el lenguaje de programación Python.
+
+* PIL / Almohada: Es una biblioteca gratis para el lenguaje de programación Python que agrega muchos formatos de archivo de diferentes imágenes.
+
+* Kivy: es un framework para Python de código abierto y multiplataforma que permite desarrollar aplicaciones con funcionalidades complejas, interfaz de usuarios amigables y con propiedades multitáctiles, todo esto desde una herramienta intuitiva, orientada a generar prototipos de manera rápida y con diseños eficiente que ayuden a tener códigos reutilizables y de fácil despliegue.
+
+
