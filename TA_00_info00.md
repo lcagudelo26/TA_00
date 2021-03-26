@@ -21,7 +21,7 @@ Aspectos destacados:
 * ¡Slide es totalmente compatible con conexión o sin conexión! Sincroniza tus subreddits automáticamente y disfruta de Reddit donde no tienes Internet, con imágenes y gifs
 * Haz que cada subreddit sea único con sus propios colores y acentos de tema
 * Siempre sin publicidad y de código abierto
-* La compatibilidad con Image Flair te permite mostrar tu estilo único en tus comunidades favoritas, incluidas / r / collegebasketball y / r / soccer
+* La compatibilidad con Image Flair te permite mostrar tu estilo único en tus comunidades favoritas
 * Responder a comentarios y envíos en línea sin abrir una ventana de respuesta, y subir imágenes directamente a tus envíos / comentarios
 * Compatibilidad con muchos sitios de contenido, incluidos Imgur, Tumblr, Gfycat y Vid.me
 * La suite de moderación más rica en funciones y fácil de usar en Android
