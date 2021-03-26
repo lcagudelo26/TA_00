@@ -4,7 +4,7 @@
 
   2. Foursquare: Aplicación basada en geoposicionamiento para buscar y descubrir lugares alrededor del mundo, tales como restaurantes, café, vida nocturna, tiendas, entre otros. Cada búsqueda se adapta a los gustos del usuario, las calificaciones anteriores, y selecciones de amigos y expertos.
 
-  3. Yelp: Es una herramienta que nace con el fin de facilitarle la vida a las personas poniendo a su disposición una plataforma con la que encontrar los mejores negocios de su barrio o de su ciudad. De esta forma, Yelp también apoya el comercio de local y de proximidad.
+  3. Yelp: Es una herramienta que busca facilitarle la vida a las personas poniendo a su disposición una plataforma para encontrar todo tipo de establecimientos de su barrio o de su ciudad. De esta forma, Yelp también apoya el comercio de local y de proximidad.
 
 
 
