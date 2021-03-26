@@ -37,7 +37,8 @@ Aspectos destacados:
 * SQLALCHEMY Trabajar con base de datos ya no es una opción, prácticamente todas nuestras aplicaciones funcionan con una. sqlAlchemy es una librería la cual nos permite trabajar con las bases de datos mediante objetos, es decir, es un ORM.Con esta librería podemos crear, modificar, consultar y eliminar nuestras tablas, así como crear, leer, actualizar y eliminar nuestros registros. El poder de SqlAlchemy no se limita únicamente esto. Podemos crear modelos con diferentes relaciones, uno a uno, uno a muchos, muchos a muchos inclusive relaciones polimórficas.
 
 * Pillow: Una herramienta para manipular imágenes. Es un fork de PIL y es más fácil de usar, bastante útil si trabajas con imágenes frecuentemente.
-Pandas: pandas es una biblioteca de código abierto con licencia BSD que proporciona estructuras de datos de alto rendimiento, fáciles de usar y herramientas de análisis de datos para el lenguaje de programación Python.
+
+* Pandas: pandas es una biblioteca de código abierto con licencia BSD que proporciona estructuras de datos de alto rendimiento, fáciles de usar y herramientas de análisis de datos para el lenguaje de programación Python.
 
 * PIL / Almohada: Es una biblioteca gratis para el lenguaje de programación Python que agrega muchos formatos de archivo de diferentes imágenes.
 
