@@ -5,4 +5,4 @@ Integrantes:
 
 Laura Canaveral Agudelo
 
-Laura Katterine Zapata Rendon
+Laura Katterine Zapata Rendón
