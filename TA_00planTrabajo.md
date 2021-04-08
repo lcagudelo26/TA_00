@@ -30,14 +30,14 @@ Fecha de entrega: 13 horas del viernes 3 de junio.
 Lista de entregables:
 
 * Diseño de las interfaces gráficas de la aplicación y el storyboard
-* Implementar interfaz gráfica del inicio y registro de usuario
+* Implementar interfaz gráfica del inicio y registro de usuario (Correo, nombre usuario y contraseña.)
 * Implementar interfaz gráfica del perfil
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/calificaciones
 * Registro de usuarios (creación de cuentas y contraseñas)
 
 Guardar información de usuarios:
-* Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña
+* Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
 
 
 Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
@@ -52,7 +52,7 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Funcionalidad de cerrar sesión
 * Funcionalidad de cambiar su contraseña
 * Funcionalidad de eliminar su cuenta
-* Funcionalidad de poner en Mis favoritos cierta recomendación de acuerdo a su categoria.
+* Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
 
 
 * Funcionalidades específicas según el tema del proyecto
