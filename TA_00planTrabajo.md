@@ -35,7 +35,10 @@ Lista de entregables:
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/calificaciones
 * Registro de usuarios (creación de cuentas y contraseñas)
-
+* Implementar un lenguaje de programacion basico para la creacion de aplicaciones 
+* Desarrollar la parte de programacion 
+* Hacer el testing de la aplicacion 
+* Realizar el diseño grafico para el prototipo de la      aplicacion (gama de colores, estilo, tipografia, etc.)
 Guardar información de usuarios:
 * Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
 
@@ -43,6 +46,7 @@ Guardar información de usuarios:
 Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Acceso a la interfaz de opiniones/ calificaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
+
 
 
 
@@ -54,6 +58,7 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Funcionalidad de eliminar su cuenta
 * Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
 * Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
-
+* Mostrar en la pantalla de inicio recomendaciones segun las preferencias del usuario 
+* Recomendaciones segun la busqueda del usuario 
 
 * Funcionalidades específicas según el tema del proyecto
