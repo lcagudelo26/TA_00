@@ -28,4 +28,8 @@ Fecha de entrega: 13 horas del viernes 3 de junio.
 
 ***********************************************
 Lista de entregables:
-
+* Registro de usuarios (creación de cuentas y contraseñas)
+* Guardar información de usuarios
+* Acceso a funcionalidades básicas de la aplicación sin registro (público en general)
+* Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados)
+* Funcionalidades específicas según el tema del proyecto
