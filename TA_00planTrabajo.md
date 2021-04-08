@@ -29,12 +29,15 @@ Fecha de entrega: 13 horas del viernes 3 de junio.
 ***********************************************
 Lista de entregables:
 
-* Diseño de las interfaces graficas de la aplicación
-* Implementar interfaz de recomendaciones
-* Implementar interfaz gráfica de opiniones
-
+* Diseño de las interfaces gráficas de la aplicación
+* Implementar interfaz gráfica del inicio y registro de usuario
+* Implementar interfaz gráfica del perfil
+* Implementar interfaz gráfica de recomendaciones
+* Implementar interfaz gráfica de opiniones/recomendaciones
 * Registro de usuarios (creación de cuentas y contraseñas)
 * Guardar información de usuarios
-* Acceso a funcionalidades básicas de la aplicación sin registro (público en general)
+* Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
+
+* Acceso a recomendaciones sin registro()
 * Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados)
 * Funcionalidades específicas según el tema del proyecto
