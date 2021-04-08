@@ -33,7 +33,7 @@ Lista de entregables:
 * Implementar interfaz gráfica del inicio y registro de usuario
 * Implementar interfaz gráfica del perfil
 * Implementar interfaz gráfica de recomendaciones
-* Implementar interfaz gráfica de opiniones/recomendaciones
+* Implementar interfaz gráfica de opiniones/calificaciones
 * Registro de usuarios (creación de cuentas y contraseñas)
 
 Guardar información de usuarios:
