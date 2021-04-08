@@ -35,8 +35,13 @@ Lista de entregables:
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/recomendaciones
 * Registro de usuarios (creación de cuentas y contraseñas)
-* Guardar información de usuarios
+* Guardar información de usuarios:
+* Guardar información del registro de los usuarios
+
+
 * Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
+* Acceso a las recomendaciones por parte de un usuario sin registro(público en general)
+* Funcionalidad de poder visualizar las recomendaciones por parte de un usuario sin registro(público en general)
 
 * Acceso a recomendaciones sin registro()
 * Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados)
