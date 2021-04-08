@@ -53,6 +53,7 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Funcionalidad de cambiar su contraseña
 * Funcionalidad de eliminar su cuenta
 * Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
+* Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
 
 
 * Funcionalidades específicas según el tema del proyecto
