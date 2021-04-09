@@ -55,7 +55,7 @@ Guardar información de usuarios:
 Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Acceso a la interfaz de opiniones/ calificaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
-* Ingresar con una cuenta de usuario de otras aplicacciones
+* Opción de registrarse en la aplicación o ingresar con una cuenta de usuario de google, instagram o facebook
 
 
 Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados):
@@ -73,7 +73,7 @@ Funcionalidades específicas según el tema del proyecto
   Personalización de la app de acuerdo a las preferencias del usuario:
   * Mostrar en la pantalla de inicio recomendaciones de mayor interes segun las preferencias del usuario y las calificiones recibidas* 
   * Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
-  * Mostrar recomendaciones especificas segun la busqueda del usuario
+  * Mostrar resultados relacionados con una busqueda especifica en la parte de opiniones
 
 **Conexión base de datos**
 Guardar información de usuarios:
