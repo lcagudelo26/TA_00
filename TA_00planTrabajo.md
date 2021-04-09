@@ -30,6 +30,7 @@ Informe 06: Desarrollar la parte de programacion - Continuación backend
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
 Entregables: 
+* Guardar información de publicaciones de recomendaciones y opiniones
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Acceso a la interfaz de opiniones/ calificaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Funcionalidad de cerrar sesión
@@ -38,7 +39,7 @@ Entregables:
 * Funcionalidad de notificar problemas con la app en el centro de ayuda
 
 
-Informe 07: Desarrollar la parte de programacion
+Informe 07: Desarrollar la parte de programacion - Finalización backend 
 Fecha de entrega: 13 horas del viernes 14 de mayo.
 
 Entregables: 
@@ -48,14 +49,14 @@ Entregables:
 * Mostrar resultados relacionados con una busqueda especifica en la parte de opiniones
 
 
-Informe 08: Desarrollar la parte de programacion
+Informe 08: Validación
 Fecha de entrega: 13 horas del viernes 21 de mayo.
 
 Entregables: 
 
 
 
-Informe 09: Validación
+Informe 09: Realiza cambios identificados en la validación
 Fecha de entrega: 13 horas del viernes 28 de mayo.
 
 Entregables: 
