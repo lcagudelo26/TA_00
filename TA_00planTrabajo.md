@@ -26,11 +26,11 @@ Entregables:
 * Acceso a la funcionalidad de realizar una recomendación (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 * Acceso a la funcionalidad de realizar opiniones/ calificaciones (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 
-Informe 06: Desarrollar la parte de programacion - Continuación backend 
+Informe 06: Desarrollar la parte de programacion - Continuación backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
 Entregables: 
-* Guardar información de publicaciones de recomendaciones y opiniones
+* Guardar información en base de datos de publicaciones de recomendaciones y opiniones
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Acceso a la interfaz de opiniones/ calificaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Funcionalidad de cerrar sesión
@@ -53,7 +53,9 @@ Informe 08: Validación
 Fecha de entrega: 13 horas del viernes 21 de mayo.
 
 Entregables: 
-
+* Hacer validación de usuario de la aplicación
+* Establecer las mejoras a realizar de acuerdo a la validación de usuario
+* Hacer el testing de la aplicacion 
 
 
 Informe 09: Realiza cambios identificados en la validación
