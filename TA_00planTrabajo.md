@@ -3,6 +3,11 @@ Plan de Trabajo TA_00
 Informe 03: Diseño y aspectos técnicos
 Fecha de entrega: 13 horas del viernes 16 de abril.
 
+Entregables:
+* Determinar aspectos del diseño grafico para el prototipo de la aplicacion (gama de colores, estilo, tipografia, etc.)
+* Diseño de las interfaces gráficas de la aplicación y el storyboard
+* Determinar el lenguaje de programacion para la creacion de la aplicacion, el sistema operativo objetivo y el gestor de base de datos
+
 Informe 04: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 23 de abril.
 
