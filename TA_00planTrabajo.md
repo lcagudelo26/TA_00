@@ -73,8 +73,6 @@ Funcionalidades específicas según el tema del proyecto
 
 **Informe 03:** Diseño y aspectos técnicos
 
-&nbsp;
-
 Fecha de entrega: 13 horas del viernes 16 de abril.
 
 *Objetivo:* El objetivo de este informe es desarrollar la parte grafica de la aplicacion,elegiremos el estilo que llevara la aplicacion, los colores adecuados, realizaremos bocetos manueles y posteriormente realizar digitalmente el storyboard,tambien estudiaremos lenguajes basicos de programacion que nos sean utiles para realizar nuestro proyecto.
