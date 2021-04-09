@@ -78,6 +78,7 @@ Funcionalidades específicas según el tema del proyecto
 **Conexión base de datos**
 Guardar información de usuarios:
 * Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
+* Guardar información publicaciones de recomendaciones y opiniones
 
 **Validación**
 * Hacer validación de usuario de la aplicación
