@@ -65,4 +65,4 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Acceso a un buzon de sugerencias 
 
 
-* Funcionalidades específicas según el tema del proyecto
+* Funcionalidades específicas según el tema del proyecto.
