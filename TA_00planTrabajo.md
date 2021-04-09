@@ -17,7 +17,7 @@ Entregables:
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/calificaciones
 
-Informe 05: Desarrollar la parte de programacion - Conexión base de datos
+Informe 05: Desarrollar la parte de programacion - Inicio backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
 Informe 06: Desarrollar la parte de programacion
