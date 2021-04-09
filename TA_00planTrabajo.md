@@ -73,7 +73,7 @@ Funcionalidades específicas según el tema del proyecto
   Personalización de la app de acuerdo a las preferencias del usuario:
   * Mostrar en la pantalla de inicio recomendaciones de mayor interes segun las preferencias del usuario y las calificiones recibidas* 
   * Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
-  * Mostrar recomendaciones especificas segun la busqueda del usuario(?)
+  * Mostrar recomendaciones especificas segun la busqueda del usuario
 
 **Conexión base de datos**
 Guardar información de usuarios:
