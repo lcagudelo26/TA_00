@@ -69,8 +69,12 @@ Funcionalidades específicas según el tema del proyecto
 
 ### A continuación se indican los contenidos que tendrán cada uno de los informes 03 a 10.
 
-**Informe 03:** Diseño y aspectos técnicos
 &nbsp;
+
+**Informe 03:** Diseño y aspectos técnicos
+
+&nbsp;
+
 Fecha de entrega: 13 horas del viernes 16 de abril.
 
 *Objetivo:* El objetivo de este informe es desarrollar la parte grafica de la aplicacion,elegiremos el estilo que llevara la aplicacion, los colores adecuados, realizaremos bocetos manueles y posteriormente realizar digitalmente el storyboard,tambien estudiaremos lenguajes basicos de programacion que nos sean utiles para realizar nuestro proyecto.
@@ -81,8 +85,11 @@ Entregables:
 * Determinar el lenguaje de programacion para la creacion de la aplicacion, el sistema operativo objetivo y el gestor de base de datos.
 
 &nbsp;
+
 **Informe 04:** Desarrollar la parte de programacion - *Frontend*
+
 &nbsp;
+
 Fecha de entrega: 13 horas del viernes 23 de abril.
 
 *Objetivo:* El objetivo de esta entrega es desarrollar la parte mas basica de la programacion (frontend) para iniciar con la construccion de la aplicacion, componiendo las bases para el registro de los usuarios.
@@ -94,8 +101,11 @@ Entregables:
 * Implementar interfaz gráfica de opiniones/calificaciones.
 
 &nbsp;
+
 **Informe 05:** Desarrollar la parte de programacion - Inicio Backend y conexión base de datos
+
 &nbsp;
+
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
 *Objetivo:* El objetivo de esta entrega es continuar con los procesos de programacion pero esta vez enfocados en la conexion de la aplicacion con una base de datos para guardar la informacion de nuestros usuarios de forma segura,tambien implentremos funciones mas avanzadas para los usuarios que se registren el la aplicacion. 
@@ -107,8 +117,11 @@ Entregables:
 * Acceso a la funcionalidad de realizar opiniones/ calificaciones (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 
 &nbsp;
+
 **Informe 06:** Desarrollar la parte de programacion - Continuación Backend y conexión base de datos
+
 &nbsp;
+
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
 *Objetivo:* El objetivo de este informe es conectar nuestra base de datos y comenzar a guardar informacion en ella, tambien realizar varias funciones mas espacificas de la aplicacion, como lo son las recomentaciones y calificaciones de diversos temas y generos.
@@ -123,8 +136,11 @@ Entregables:
 * Funcionalidad de notificar problemas con la app en el centro de ayuda
 
 &nbsp;
+
 **Informe 07:** Desarrollar la parte de programacion - Finalización Backend
+
 &nbsp; 
+
 Fecha de entrega: 13 horas del viernes 14 de mayo.
 
 *Objetivo:* El objetivo de este informe es crear un perfil del usuario basado en sus categorias favoritas,recomendaciones y preferencias para para que en su cuenta aparezcan sus temas de interes y hacer su experiencia mas agradable.
@@ -136,6 +152,7 @@ Entregables:
 * Mostrar resultados relacionados con una busqueda especifica en la parte de opiniones
 
 &nbsp;
+
 **Informe 08:** Validación
 &nbsp;
 Fecha de entrega: 13 horas del viernes 21 de mayo.
@@ -148,8 +165,11 @@ Entregables:
 * Hacer el testing de la aplicacion 
 
 &nbsp;
+
 **Informe 09:** Realiza cambios identificados en la validación
+
 &nbsp;
+
 Fecha de entrega: 13 horas del viernes 28 de mayo.
 
 *Objetivo:* En esta entrega realizaremos los cambios que sean pertinentes y  necesarios  dependiendo de la validacion y el testing de la apliccacion para que nuestra aplicacion quede en excelentes condiciones.
@@ -158,8 +178,11 @@ Entregables:
 * Realizar cambios en la parte del Frontend y Backend identificados en la validación
 
 &nbsp;
+
 **Informe 10:** Entrega final aplicación
+
 &nbsp;
+
 Fecha de entrega: 13 horas del viernes 3 de junio.
 
 *Objetivo:* El objetivo de esta entrega es poder dar a conocer nuestra aplicacion al publico y hacer su respectiva exposicion.
