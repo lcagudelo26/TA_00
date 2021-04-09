@@ -21,7 +21,6 @@ Informe 05: Desarrollar la parte de programacion - Inicio backend y Conexión ba
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
 Entregables:
-* Registro de usuarios (creación de cuentas y contraseñas)
 * Realizar conexión con base de datos para guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
 * Opción de registrarse en la aplicación o ingresar con una cuenta de usuario de google o facebook.
 * Acceso a la funcionalidad de realizar una recomendación (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
@@ -64,8 +63,6 @@ Lista de entregables:
 
 
 *Backend*
-* Registro de usuarios (creación de cuentas y contraseñas)
-Guardar información de usuarios:
 * Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
 
 
