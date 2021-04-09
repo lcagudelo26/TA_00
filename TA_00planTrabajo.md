@@ -1,4 +1,15 @@
-Plan de Trabajo TA_00
+## Plan de Trabajo TA_00
+
+El desarrollo de este proyecto se divide en varias etapas:
+1. Diseño y aspectos técnicos.
+2. Desarrollo de la programación:
+   * 2.1 Frontend: Interfaz gráfica
+   * 2.2 Backend: Funcionalidades de la aplicación
+   * 2.3 Conexión base de datos
+
+3. Validación y testing
+
+
 
 Informe 03: Diseño y aspectos técnicos
 Fecha de entrega: 13 horas del viernes 16 de abril.
