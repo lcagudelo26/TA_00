@@ -62,12 +62,14 @@ Informe 09: Realiza cambios identificados en la validación
 Fecha de entrega: 13 horas del viernes 28 de mayo.
 
 Entregables: 
+* Realizar cambios en la parte del Frontend y backend identificados en la validación
 
 
 Informe 10: Entrega final aplicación
 Fecha de entrega: 13 horas del viernes 3 de junio.
 
 Entregables: 
+* Realizar cambios sugeridos en el informe 09
 
 
 
