@@ -83,7 +83,5 @@ Guardar información de usuarios:
 * Hacer validación de usuario de la aplicación
 * Hacer el testing de la aplicacion 
 
-<<<<<<< HEAD
+
 * Funcionalidades específicas según el tema del proyecto.
-=======
->>>>>>> origin/main
