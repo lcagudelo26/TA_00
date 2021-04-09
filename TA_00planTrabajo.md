@@ -34,6 +34,7 @@ Lista de entregables:
 * Implementar interfaz gráfica del perfil
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/calificaciones
+* Realizar bocetos basicos del funcionamiento de la apicacion
 * Registro de usuarios (creación de cuentas y contraseñas)
 * Implementar un lenguaje de programacion basico para la creacion de aplicaciones 
 * Desarrollar la parte de programacion 
@@ -62,6 +63,6 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Mostrar en la pantalla de inicio recomendaciones segun las preferencias del usuario 
 * Mostrar recomendaciones especificas segun la busqueda del usuario
 * Acceso a un buzon de sugerencias 
-  
+
 
 * Funcionalidades específicas según el tema del proyecto
