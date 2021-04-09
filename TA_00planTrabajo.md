@@ -81,7 +81,7 @@ Entregables:
 **Informe 04:** Desarrollar la parte de programacion - *Frontend*
 Fecha de entrega: 13 horas del viernes 23 de abril.
 
-*Objetivo: el objetivo de esta entrega es desarrollar la parte mas basica de la programacion (frontend) para iniciar con la construccion de la aplicacion,construyendo las bases para el registro de los usuarios.
+*Objetivo: el objetivo de esta entrega es desarrollar la parte mas basica de la programacion (frontend) para iniciar con la construccion de la aplicacion, componiendo las bases para el registro de los usuarios.
 
 Entregables:
 * Implementar interfaz gráfica del inicio y registro de usuario (Correo, nombre usuario y contraseña.)
