@@ -2,7 +2,7 @@
 
 El desarrollo de este proyecto se divide en varias etapas:
 1. Diseño y aspectos técnicos.
-2. Desarrollo de la programación:
+2. Desarrollo:
    * 2.1 Frontend: Interfaz gráfica
    * 2.2 Backend: Funcionalidades de la aplicación
    * 2.3 Conexión base de datos
