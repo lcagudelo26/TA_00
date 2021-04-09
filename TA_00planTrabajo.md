@@ -23,6 +23,7 @@ Fecha de entrega: 13 horas del viernes 30 de abril.
 Entregables:
 * Registro de usuarios (creación de cuentas y contraseñas)
 * Realizar conexión con base de datos para guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
+* Opción de registrarse en la aplicación o ingresar con una cuenta de usuario de google o facebook
 
 Informe 06: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 7 de mayo.
@@ -69,7 +70,7 @@ Guardar información de usuarios:
 Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
 * Acceso a la interfaz de opiniones/ calificaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
-* Opción de registrarse en la aplicación o ingresar con una cuenta de usuario de google, instagram o facebook
+* Opción de registrarse en la aplicación o ingresar con una cuenta de usuario de google o facebook
 
 
 Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios registrados):
