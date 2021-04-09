@@ -60,7 +60,7 @@ Acceso a funcionalidades avanzadas de la aplicación con registro (usuarios regi
 * Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
 * Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
 * Mostrar en la pantalla de inicio recomendaciones segun las preferencias del usuario 
-* Recomendaciones especificas segun la busqueda del usuario
+* Mostrar recomendaciones especificas segun la busqueda del usuario
 *  
 
 * Funcionalidades específicas según el tema del proyecto
