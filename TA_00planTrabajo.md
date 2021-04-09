@@ -20,6 +20,10 @@ Entregables:
 Informe 05: Desarrollar la parte de programacion - Inicio backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
+Entregables:
+* Registro de usuarios (creación de cuentas y contraseñas)
+* Realizar conexión con base de datos para guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
+
 Informe 06: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
@@ -58,7 +62,6 @@ Lista de entregables:
 
 *Backend*
 * Registro de usuarios (creación de cuentas y contraseñas)
-* Realizar el diseño grafico para el prototipo de la      aplicacion (gama de colores, estilo, tipografia, etc.)
 Guardar información de usuarios:
 * Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
 
