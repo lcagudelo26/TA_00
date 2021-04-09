@@ -8,10 +8,16 @@ Entregables:
 * Diseño de las interfaces gráficas de la aplicación y el storyboard
 * Determinar el lenguaje de programacion para la creacion de la aplicacion, el sistema operativo objetivo y el gestor de base de datos
 
-Informe 04: Desarrollar la parte de programacion
+Informe 04: Desarrollar la parte de programacion - *Frontend*
 Fecha de entrega: 13 horas del viernes 23 de abril.
 
-Informe 05: Desarrollar la parte de programacion- Conexión base de datos
+Entregables:
+* Implementar interfaz gráfica del inicio y registro de usuario (Correo, nombre usuario y contraseña.)
+* Implementar interfaz gráfica del perfil
+* Implementar interfaz gráfica de recomendaciones
+* Implementar interfaz gráfica de opiniones/calificaciones
+
+Informe 05: Desarrollar la parte de programacion - Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
 Informe 06: Desarrollar la parte de programacion
