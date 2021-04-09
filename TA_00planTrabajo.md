@@ -1,27 +1,27 @@
 Plan de Trabajo TA_00
 
-Informe 03: 
+Informe 03: Diseño y aspectos técnicos
 Fecha de entrega: 13 horas del viernes 16 de abril.
 
-Informe 04: 
+Informe 04: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 23 de abril.
 
-Informe 05: 
+Informe 05: Desarrollar la parte de programacion- Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
-Informe 06: 
+Informe 06: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
-Informe 07: 
+Informe 07: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 14 de mayo.
 
-Informe 08: 
+Informe 08: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 21 de mayo.
 
-Informe 09: 
+Informe 09: Validación
 Fecha de entrega: 13 horas del viernes 28 de mayo.
 
-Informe 10: 
+Informe 10: Entrega final aplicación
 Fecha de entrega: 13 horas del viernes 3 de junio.
 
 
@@ -35,7 +35,7 @@ Lista de entregables:
 * Determinar el lenguaje de programacion para la creacion de la aplicacion, el sistema operativo objetivo y el gestor de base de datos
 
 
-**Desarrollar la parte de programacion(?)**
+**Desarrollar la parte de programacion**
 
 *Frontend*
 * Implementar interfaz gráfica del inicio y registro de usuario (Correo, nombre usuario y contraseña.)
