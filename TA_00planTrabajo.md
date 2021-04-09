@@ -33,7 +33,7 @@ Lista de entregables:
 * Determinar aspectos del diseño grafico para el prototipo de la aplicacion (gama de colores, estilo, tipografia, etc.)
 * Diseño de las interfaces gráficas de la aplicación y el storyboard
 * Determinar el lenguaje de programacion para la creacion de la aplicacion, el sistema operativo objetivo y el gestor de base de datos
-* Realizar bocetos basicos del funcionamiento de la apicacion(?)
+
 
 **Desarrollar la parte de programacion(?)**
 
