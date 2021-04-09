@@ -10,7 +10,7 @@ El desarrollo de este proyecto se divide en varias etapas:
 
 3. Validación y testing
 
-Listado de actividades requeridas para el desarrollo del proyecto:
+### Listado de actividades requeridas para el desarrollo del proyecto:
 
 **Diseño y aspectos técnicos**
 * Determinar aspectos del diseño grafico para el prototipo de la aplicacion (gama de colores, estilo, tipografia, etc.)
