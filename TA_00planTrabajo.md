@@ -26,7 +26,7 @@ Entregables:
 * Acceso a la funcionalidad de realizar una recomendación (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 * Acceso a la funcionalidad de realizar opiniones/ calificaciones (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 
-Informe 06: Desarrollar la parte de programacion
+Informe 06: Desarrollar la parte de programacion - Continuación backend 
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
 Entregables: 
@@ -42,7 +42,10 @@ Informe 07: Desarrollar la parte de programacion
 Fecha de entrega: 13 horas del viernes 14 de mayo.
 
 Entregables: 
-
+* Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
+* Mostrar en la pantalla de inicio recomendaciones de mayor interes segun las preferencias del usuario y las calificiones recibidas
+* Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
+* Mostrar resultados relacionados con una busqueda especifica en la parte de opiniones
 
 
 Informe 08: Desarrollar la parte de programacion
@@ -86,8 +89,6 @@ Lista de entregables:
 
 
 *Backend*
-* Guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
-
 
 Acceso a funcionalidades básicas de la aplicación sin registro (público en general):
 * Acceso a la interfaz de recomendaciones por parte de un usuario sin registro, donde solo podrá buscarlas según la categoría y visualizarlas.
@@ -108,7 +109,7 @@ Funcionalidades específicas según el tema del proyecto
 * Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
 
   Personalización de la app de acuerdo a las preferencias del usuario:
-  * Mostrar en la pantalla de inicio recomendaciones de mayor interes segun las preferencias del usuario y las calificiones recibidas* 
+  * Mostrar en la pantalla de inicio recomendaciones de mayor interes segun las preferencias del usuario y las calificiones recibidas
   * Notificaciones de las recomendaciones más gustadas en las categorias seleccionadas como favoritas por el usuario.
   * Mostrar resultados relacionados con una busqueda especifica en la parte de opiniones
 
