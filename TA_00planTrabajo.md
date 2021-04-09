@@ -17,7 +17,7 @@ Entregables:
 * Implementar interfaz gráfica de recomendaciones
 * Implementar interfaz gráfica de opiniones/calificaciones
 
-Informe 05: Desarrollar la parte de programacion - Inicio backend y Conexión base de datos
+Informe 05: Desarrollar la parte de programacion - Inicio Backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
 
 Entregables:
@@ -26,7 +26,7 @@ Entregables:
 * Acceso a la funcionalidad de realizar una recomendación (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 * Acceso a la funcionalidad de realizar opiniones/ calificaciones (de acuerdo a una categoría en específico) por parte de un usuario con registro, donde podrá editarla y eliminarla una vez las haya publicado.
 
-Informe 06: Desarrollar la parte de programacion - Continuación backend y Conexión base de datos
+Informe 06: Desarrollar la parte de programacion - Continuación Backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 7 de mayo.
 
 Entregables: 
@@ -39,7 +39,7 @@ Entregables:
 * Funcionalidad de notificar problemas con la app en el centro de ayuda
 
 
-Informe 07: Desarrollar la parte de programacion - Finalización backend 
+Informe 07: Desarrollar la parte de programacion - Finalización Backend 
 Fecha de entrega: 13 horas del viernes 14 de mayo.
 
 Entregables: 
@@ -62,7 +62,7 @@ Informe 09: Realiza cambios identificados en la validación
 Fecha de entrega: 13 horas del viernes 28 de mayo.
 
 Entregables: 
-* Realizar cambios en la parte del Frontend y backend identificados en la validación
+* Realizar cambios en la parte del Frontend y Backend identificados en la validación
 
 
 Informe 10: Entrega final aplicación
