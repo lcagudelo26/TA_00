@@ -126,4 +126,3 @@ Guardar información de usuarios:
 * Hacer el testing de la aplicacion 
 
 
-* Funcionalidades específicas según el tema del proyecto.
