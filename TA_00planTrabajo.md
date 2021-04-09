@@ -71,6 +71,7 @@ Funcionalidades específicas según el tema del proyecto
 
 **Informe 03:** Diseño y aspectos técnicos
 Fecha de entrega: 13 horas del viernes 16 de abril.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables:
 * Determinar aspectos del diseño grafico para el prototipo de la aplicacion (gama de colores, estilo, tipografia, etc.)
@@ -79,6 +80,7 @@ Entregables:
 
 **Informe 04:** Desarrollar la parte de programacion - *Frontend*
 Fecha de entrega: 13 horas del viernes 23 de abril.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables:
 * Implementar interfaz gráfica del inicio y registro de usuario (Correo, nombre usuario y contraseña.)
@@ -88,6 +90,7 @@ Entregables:
 
 **Informe 05:** Desarrollar la parte de programacion - Inicio Backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 30 de abril.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables:
 * Realizar conexión con base de datos para guardar información del registro de los usuarios: Correo, nombre usuario y contraseña.
@@ -97,6 +100,7 @@ Entregables:
 
 **Informe 06:** Desarrollar la parte de programacion - Continuación Backend y Conexión base de datos
 Fecha de entrega: 13 horas del viernes 7 de mayo.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables: 
 * Guardar información en base de datos de publicaciones de recomendaciones y opiniones
@@ -110,6 +114,7 @@ Entregables:
 
 **Informe 07:** Desarrollar la parte de programacion - Finalización Backend 
 Fecha de entrega: 13 horas del viernes 14 de mayo.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables: 
 * Funcionalidad de agregar/eliminar en Mis favoritos cierta recomendación de acuerdo a su categoria.
@@ -120,6 +125,7 @@ Entregables:
 
 **Informe 08:** Validación
 Fecha de entrega: 13 horas del viernes 21 de mayo.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables: 
 * Hacer validación de usuario de la aplicación
@@ -129,6 +135,7 @@ Entregables:
 
 **Informe 09:** Realiza cambios identificados en la validación
 Fecha de entrega: 13 horas del viernes 28 de mayo.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables: 
 * Realizar cambios en la parte del Frontend y Backend identificados en la validación
@@ -136,6 +143,7 @@ Entregables:
 
 **Informe 10:** Entrega final aplicación
 Fecha de entrega: 13 horas del viernes 3 de junio.
+*Objetivo:* Aqui va el objetivo.
 
 Entregables: 
 * Realizar cambios sugeridos en el informe 09
