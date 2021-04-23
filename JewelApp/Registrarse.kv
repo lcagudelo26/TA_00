@@ -1,0 +1,120 @@
+BoxLayout:
+    orientation: "vertical"
+    BoxLayout:
+        size_hint: (1, 0.08)
+        orientation: "vertical"
+    BoxLayout:
+        size_hint: (1, 0.6)
+        orientation: "vertical"
+        Label:
+            text: "Jewel App"
+            size_hint: (1, 0.15)
+            id: text_label
+            color: 33/255, 33/255, 33/255, 1
+            font_size: 25
+
+
+        Image:
+            source: "JewelAppIconFondoBlanco.png"
+
+
+    GridLayout:
+
+        cols:1
+        background_color: (1,1,1,1)
+        size: root.width, root.height
+        spacing: 10
+        padding: 20
+
+
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Correo"
+                halign: "left"
+                valign: "middle"
+                text_size: self.size
+                size_hint: (1.0, 1.0)
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            TextInput:
+                text: ""
+                id: text_input1
+
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Usuario"
+                halign: "left"
+                valign: "middle"
+                text_size: self.size
+                size_hint: (1.0, 1.0)
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            TextInput:
+                text: ""
+                id: text_input1
+
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Contraseña"
+                halign: "left"
+                valign: "middle"
+                text_size: self.size
+                size_hint: (1.0, 1.0)
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            TextInput:
+                text: ""
+                id: text_input2
+                password: True
+                multiline: False
+        BoxLayout:
+            orientation: "vertical"
+            size_hint: (1, 0.3)
+        Button:
+            text: "Registrarme"
+            on_press: app.button2_press()
+            background_normal: ''
+            background_color: (1,193/255,7/255,1)
+
+
+
+        BoxLayout:
+            orientation: "vertical"
+            size_hint: (1, 0.5)
+            Label:
+                text: ""
+                id: text_label
+                color: 1,0,0, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+
+    BoxLayout:
+        orientation: "vertical"
+        size_hint: (1, 0.2)
+        Label:
+            text: ""
