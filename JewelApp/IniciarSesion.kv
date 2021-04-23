@@ -1,0 +1,145 @@
+BoxLayout:
+    orientation: "vertical"
+    BoxLayout:
+        size_hint: (1, 0.3)
+        orientation: "vertical"
+        Label:
+            text: "Iniciar Sesión en Jewel App"
+            size_hint: (1, 0.35)
+            id: text_label
+            color: 1,1,1,1
+            font_size: 18
+            canvas.before:
+                Color:
+                    rgba: 0,150/255,136/255,1
+                Rectangle:
+                    size: self.size
+                    pos: self.pos
+
+        Image:
+            source: "JewelAppIconFondoBlanco.png"
+
+
+    GridLayout:
+
+        cols:1
+        background_color: (1,1,1,1)
+        size: root.width, root.height
+        spacing: 10
+        padding: 30
+
+
+        BoxLayout:
+            orientation: "vertical"
+            padding: 0
+            Label:
+                text: "Usuario o Correo"
+                halign: "left"
+                valign: "middle"
+                text_size: self.size
+                size_hint: (1.0, 1.0)
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            TextInput:
+                text: ""
+                id: text_input1
+
+        BoxLayout:
+            orientation: "vertical"
+            Label:
+                text: "Contraseña"
+                halign: "left"
+                valign: "middle"
+                text_size: self.size
+                size_hint: (1.0, 1.0)
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            TextInput:
+                text: ""
+                id: text_input2
+                password: True
+                multiline: False
+        BoxLayout:
+            orientation: "vertical"
+            size_hint: (1, 0.3)
+        Button:
+            text: "Ingresar"
+            on_press: app.button2_press()
+            background_normal: ''
+            background_color: (1,193/255,7/255,1)
+
+        BoxLayout:
+            orientation: "vertical"
+            size_hint: (1, 0.5)
+
+            Label:
+                text: "o"
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+        Button:
+            text: "Iniciar sesion con Facebook"
+            on_press: app.button2_press()
+            background_normal: ''
+            background_color: ( 19/255, 30/255, 160/255,1)
+
+        Button:
+            text: "Iniciar sesion con Google"
+            on_press: app.button2_press()
+            background_normal: ''
+            background_color: (4/255, 122/255, 241/255 ,1)
+
+
+        BoxLayout:
+            orientation: "horizontal"
+            Label:
+                text: "¿No tienes cuenta?"
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+            Label:
+                text: "Registrarse"
+                id: text_label
+                color: 4/255, 122/255, 241/255 ,1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos
+
+        BoxLayout:
+            orientation: "vertical"
+            size_hint: (1, 0.5)
+            Label:
+                text: ""
+                id: text_label
+                color: 33/255, 33/255, 33/255, 1
+                canvas.before:
+                    Color:
+                        rgba: 1,1,1,1
+                    Rectangle:
+                        size: self.size
+                        pos: self.pos

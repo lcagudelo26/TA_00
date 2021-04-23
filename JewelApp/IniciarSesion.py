@@ -2,23 +2,25 @@ from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.label import Label
 from kivy.uix.textinput import TextInput
+from kivy.uix.widget import Widget
+from kivy.properties import ObjectProperty
+from kivy.lang import Builder
+from kivy.core.window import Window
 
-class Login(GridLayout):
-    def __init__(self, **kwargs):
-        super(Login, self).__init__(**kwargs)
-        self.cols=2
-        self.add_widget(Label(text='Nombre de Usuario'))
-        self.username=TextInput(multiline=False)
-        self.add_widget(self.username)
-        self.add_widget(Label(text='Contraseña'))
-        self.password=TextInput(password=True, multiline=False)
-        self.add_widget(self.password)
+Window.clearcolor = (1,1,1,1)
+Window.size= (360,600)
 
-class JewelApp(App):
-    def build(self):
-        return Login()
+Builder.load_file('IniciarSesion.kv')
 
-if __name__=='__main__':
-    JewelApp().run()
+class IniciarSesionApp(App):
+
+    def button2_press(self):
+         self.root.ids['text_label'].text = 'Contraseña incorrecta'
+#        self.root.ids['text_label'].text = self.root.ids['text_input1'].text
+
+#    def button2_press(self):
+#        self.root.ids['text_label'].text = self.root.ids['text_input2'].text
 
 
+app = IniciarSesionApp()
+app.run()
