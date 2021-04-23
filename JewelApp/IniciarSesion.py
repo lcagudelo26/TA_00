@@ -16,10 +16,6 @@ class IniciarSesionApp(App):
 
     def button2_press(self):
          self.root.ids['text_label'].text = 'Contraseña incorrecta'
-#        self.root.ids['text_label'].text = self.root.ids['text_input1'].text
-
-#    def button2_press(self):
-#        self.root.ids['text_label'].text = self.root.ids['text_input2'].text
 
 
 app = IniciarSesionApp()
