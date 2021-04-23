@@ -1,4 +1,4 @@
-#navigation_helper para menu de recomendaciones
+#navigation_helper para menu de opiniones
 navigation_helper = """
 Screen:
     NavigationLayout:
@@ -7,7 +7,7 @@ Screen:
                 BoxLayout:
                     orientation: 'vertical'
                     MDToolbar:
-                        title: 'Para mi'
+                        title: 'Opiniones'
                         left_action_items: [["menu", lambda x: nav_drawer.toggle_nav_drawer()]]
                         elevation:5
                         md_bg_color: 189/255,189/255,189/255,1
@@ -22,7 +22,7 @@ Screen:
                 padding: "8dp"
                 spacing: "8dp"
                 MDLabel:
-                    text: "Descubrir"
+                    text: "Opiniones"
                     font_style: "Subtitle1"
                     size_hint_y: None
                     height: self.texture_size[1]
@@ -55,7 +55,7 @@ Screen:
                      
                         MDList:
                             OneLineIconListItem:
-                                text: "Para mi"
+                                text: "Lo más comentado"
                                 bg_color: 1,193/255,7/255,1
                             
                                     
@@ -77,7 +77,7 @@ Screen:
                                 bg_color: 1,193/255,7/255,1
       
                             OneLineIconListItem:
-                                text: "Canciones"  
+                                text: "Servicios & Productos"  
                                 bg_color: 1,193/255,7/255,1
                                                                                               
                             OneLineIconListItem:
@@ -89,7 +89,7 @@ Screen:
                                 text: "Otros" 
                                 bg_color: 1,193/255,7/255,1                          
                             OneLineIconListItem:
-                                text: "Recomendar algo nuevo"
+                                text: "Opina sobre algo nuevo"
                                 bg_color: 1,193/255,7/255,1                                
                             
                             
