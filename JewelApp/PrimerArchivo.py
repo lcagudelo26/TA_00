@@ -7,6 +7,6 @@ class aplicacion(App):
   # esta etiqueta es la raiz widget de la aplicacion
     def build(self):
         return Label(text='Bienvenidos a Jewel App')
-# (run) esto inicia y comienza a ejecutar la aplicacion 
+#iniciamos la clase de aplicacion (run) esto inicia y comienza a ejecutar la aplicacion 
 if __name__ =='__main__':
     aplicacion().run()
