@@ -15,6 +15,7 @@ Builder.load_file('IniciarSesion.kv')
 class IniciarSesionApp(App):
 
     def button2_press(self):
+      #
          self.root.ids['text_label'].text = 'Contraseña incorrecta'
 
 
